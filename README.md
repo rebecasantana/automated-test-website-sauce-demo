@@ -1,7 +1,8 @@
 ## Plataforma de Teste Swag Labs
 <p align=center></p>
 <div align=justify>
-    <p>O SauceDemo é um site de comércio eletrônico que oferece uma plataforma para compra de produtos. Ele permite aos usuários explorar catálogos de produtos, adicionar itens ao carrinho e finalizar pedidos. O site tem como objetivo proporcionar uma experiência de compra online.
+    <p>O SauceDemo é um site de comércio eletrônico que oferece uma plataforma para compra de produtos. Ele permite aos usuários explorar catálogos de produtos, adicionar itens ao carrinho e finalizar pedidos.
+O site tem como objetivo proporcionar uma experiência de compra online.
 </p>
     
 ## Conheça o Time de QA 
