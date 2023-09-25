@@ -4,9 +4,9 @@
     <table>
       <thead>
         <tr>
-          <th><img src="https://ik.imagekit.io/zc68f3m83/2.png?updatedAt=1695652804703" width=100 height=100 alt="Davi Teixeira" ></th>
-          <th><img src="https://ik.imagekit.io/zc68f3m83/1.png?updatedAt=1695652807123" width=100 height=100 alt="Isabela Studart" ></th>
-          <th><img src="https://ik.imagekit.io/zc68f3m83/3.png?updatedAt=1695652805338" width=100 height=100 alt="Rebeca Silva" ></th>
+          <th><img src="https://ik.imagekit.io/zc68f3m83/3.png?updatedAt=1695653273148" width=100 height=100 alt="Davi Teixeira" ></th>
+          <th><img src="https://ik.imagekit.io/zc68f3m83/1.png?updatedAt=1695653273179" width=100 height=100 alt="Isabela Studart" ></th>
+          <th><img src="https://ik.imagekit.io/zc68f3m83/2.png?updatedAt=1695653272901" width=100 height=100 alt="Rebeca Silva" ></th>
         </tr>
         <tr>
           <th>
